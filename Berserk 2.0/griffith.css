@@ -1,0 +1,152 @@
+*
+{margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ list-style: none;
+ text-decoration: none;}
+
+body
+{background-color: rgb(0, 4, 15);}
+
+#griffith
+{display: flex;
+ align-content: flex-start;
+ padding: 100px;}
+
+.imagens
+{width: 280px;}
+
+#h1_1
+{padding: 80px;
+ padding-left: 150px;
+ padding-bottom: 40px;
+ font-size: 2em;}
+
+#h1_p1
+{display: block;}
+
+.paragrafo
+{width: 500px;
+ padding: 30px;
+ padding-top: 0px;
+ padding-left: 100px;}
+
+#p1
+{padding: 30px;
+ padding-top: 0px;
+ padding-left: 100px;}
+
+#p2
+{width: 500px;}
+
+p
+{color: white;
+ font-family: Georgia, 'Times New Roman', Times, serif;}
+
+.nomes
+{color: white;
+ font-family: 'Times New Roman', Times, serif;}
+
+.direito
+{padding: 50px;
+ padding-left: 100px;}
+
+#h1_2
+{padding-left: 100px;
+ padding-bottom: 20px;}
+
+#h1_p2
+{display: flex;
+ align-content: flex-start;}
+
+#img2
+{width: 400px;
+ padding-left: 100px;
+ height: 350px;}
+
+#img3
+{width: 200px;
+ height: 300px;}
+
+#img4
+{width: 200px;
+ height: 200px;}
+
+#h1_p3
+{display: block;}
+
+.esquerdo
+{display: flex;
+ align-content: flex-start;
+ padding: 100px;}
+
+#h1_3
+{padding-left: 150px;}
+
+#p3
+{padding-top: 30px;
+ padding-left: 40px;}
+
+.alternada
+{display: flex;
+ align-content: flex-start;}
+
+#zodd
+{display: flex;
+ align-content: flex-start;
+ padding-top: 70px;}
+
+#história
+{display: block;}
+
+#pzodd
+{padding-top: 40px;}
+
+#Zodd
+{width: 400px;}
+
+#img5
+{width: 400px;
+ padding-left: 100px;
+ height: 200px;}
+
+.p4
+{width: 500px;
+ padding-top: 20px;}
+
+#img6
+{width: 300px;
+ height: 320px;}
+
+#img7
+{width: 250px;}
+
+#Griffith_tortura
+{width: 300px;
+ padding-left: 60px;}
+
+#pgriffith
+{padding-top: 60px;}
+
+#mão_de_deus
+{width: 250px;}
+
+#Nascimento
+{width: 200px;
+ height: 300px;}
+
+#Femto_e_Caska
+{width: 250px;
+ height: 250px;}
+
+#Griffith_vs_Ganishka
+{width: 400px;
+ height: 250px;
+ padding-left: 80px;}
+
+#p5
+{width: 500px;
+ padding-top: 50px;}
+
+#Falconia
+{width: 320px;}

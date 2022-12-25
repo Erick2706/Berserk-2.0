@@ -1,0 +1,32 @@
+#areamenu
+{background-color: rgb(06, 0, 30);
+ padding: 20px;
+ text-decoration: none;}
+
+li a, span
+{color: white;
+ font-size: 1.3em;
+ padding: 10px;}
+
+#areamenu li ul
+{display: none;}
+
+#areamenu li:hover ul
+{display: block;}
+
+#menu
+{display: flex;
+ justify-content: center;}
+
+#submenu
+{display: flex;
+ align-items: center;
+ border: 1px solid black;}
+
+#linha1
+{padding-left: 30px;
+ padding-top: 3px;}
+
+#linha2
+{padding-left: 22px;
+ padding-top: 3px;}
